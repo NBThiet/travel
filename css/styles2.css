@@ -1,0 +1,9 @@
+.newsPic{
+    height: 300px;
+}
+
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
